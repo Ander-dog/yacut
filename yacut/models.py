@@ -4,8 +4,9 @@ from random import choice
 
 from flask import url_for
 
+from settings import SHORT_ID_LENGTH, SHORT_ID_MAX_LENGTH
+
 from . import db
-from settings import SHORT_ID_MAX_LENGTH, SHORT_ID_LENGTH
 
 
 def generate_short_id(length):
