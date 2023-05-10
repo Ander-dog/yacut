@@ -52,4 +52,4 @@ pip install -r requirements.txt
 
 # Автор
 
-[Андрей А.] (https://github.com/Ander-dog)
+[Андрей А.](https://github.com/Ander-dog)
